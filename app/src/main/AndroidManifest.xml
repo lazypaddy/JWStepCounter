@@ -17,4 +17,7 @@
         </activity>
     </application>
 
+    <uses-feature android:name="@string/step_detector" android:required="false"/>
+    <uses-feature android:name="@string/step_counter" android:required="false"/>
+
 </manifest>
